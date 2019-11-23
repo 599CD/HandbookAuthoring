@@ -14,3 +14,15 @@ If you have purchased a video you can buy the [Handbook](https://www.599cd.com/h
 This repo is for any handy scripts, macros etc used to aid in the creation of these.
 
 I originally used [HyperSnap](https://www.hyperionics.com/) to grab screenshots but have since moved to [Greenshot](https://getgreenshot.org/)
+
+---
+
+## Scripts
+ 
+### VBA
+
+[vba](vba.md)
+
+#### Word
+
+[word](word.md)
