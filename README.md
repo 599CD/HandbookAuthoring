@@ -21,8 +21,8 @@ I originally used [HyperSnap](https://www.hyperionics.com/) to grab screenshots 
  
 ### VBA
 
-[vba](vba\vba.md)
+[vba](VBA/vba.md)
 
 #### Word
 
-[word](vba\word\word.md)
+[word](VBA/Word/word.md)
